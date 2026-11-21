@@ -1,6 +1,16 @@
 [
   {
     "date": "2026-11-21",
+    "type": "feature",
+    "title": "the local server bridge",
+    "notes": [
+      "new opt-in switch in the gear panel: point the deck at a local void-records server and stream records from it instead of straight off disk. off by default, everything still works with zero network.",
+      "when linked, clean listens, achievements, settings and favourites are pushed to the server and merged back on load - local progress is never erased. any other project using the server sees the same list.",
+      "lyrics stay offline-only. the server reads a prebuilt dump file and never makes a live LRCLIB call."
+    ]
+  },
+  {
+    "date": "2026-11-21",
     "type": "achievement",
     "title": "the right way",
     "notes": [
