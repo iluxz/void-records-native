@@ -5,7 +5,7 @@ const path = require('path');
 const web = path.resolve(__dirname, '..', 'void-records');
 const out = path.resolve(__dirname, 'assets');
 
-const trackSrc = fs.readFileSync(path.join(web, 'tracks.js'), 'utf8');
+const trackSrc = fs.readFileSync(path.join(web, 'tracks.js'), 'utf8').trim();
 const tracks = JSON.parse(trackSrc.match(/const TRACKS=(\[[\s\S]*\])$/)[1]);
 
 // updates.js mixes the PATCH_LOG literal with DOM wiring, so isolate just the array.
