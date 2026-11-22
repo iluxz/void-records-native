@@ -158,7 +158,7 @@ impl VrApp {
 
     fn load(&mut self, idx: usize) {
         let Some(t) = self.tracks.get(idx).cloned() else { return };
-        let path = music_dir().join(&t.f);
+        let path = { let p = music_dir().join("tracks").join(&t.f); if p.exists() { p } else { music_dir().join(&t.f) } };
         let now = std::time::SystemTime::now()
             .duration_since(std::time::UNIX_EPOCH)
             .unwrap_or_default()
