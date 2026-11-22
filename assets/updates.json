@@ -1,30 +1,74 @@
 [
   {
-    "date": "2026-11-21",
-    "type": "music pack",
-    "title": "music pack 11: men's music",
+    "date": "2026-10-21",
+    "type": "feature",
+    "title": "void records goes live",
     "notes": [
-      "59 new records from men, a friend of lux, pulled from all 7 of his playlists. names always start with \"men - \" and every record carries the men alias.",
-      "attachment, inadequate pursuit, the ### ## ###### OSTs, buttersaken, tgwyktgotr, midnight pizza delivery, MFGR and calm mode on.",
-      "shelf is now 490. search \"men\", \"m11\", \"pack 11\" or \"music pack 11\" for the whole set."
+      "the shelf hit 68 tracks and the tonearm actually learned where to land. one deck, one very long list of records."
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "type": "feature",
+    "title": "v2: knobs and shortcuts",
+    "notes": [
+      "music settings, now playing everywhere, favorites, the lyrics window and lyrics presets.",
+      "polish pass, real haydee zone names, and housekeeping underneath it all."
+    ]
+  },
+  {
+    "date": "2026-10-22",
+    "type": "feature",
+    "title": "karaoke mode and 26 achievements",
+    "notes": [
+      "karaoke mode went live and the first 26 achievements gave people something to chase.",
+      "this update log showed up so you can see how it got here."
+    ]
+  },
+  {
+    "date": "2026-10-22",
+    "type": "music pack",
+    "title": "the big haul: 68 to 114 tracks",
+    "notes": [
+      "slime rancher and grim fandango soundtracks added, plus five new rooms to put them in."
     ]
   },
   {
     "date": "2026-11-21",
     "type": "music pack",
-    "title": "music pack 10: thirteen more records",
+    "title": "music packs 2 to 4: geometry dash, memes and ultrakill",
     "notes": [
-      "13 new records - 419 to 431. anonymous hacking music, gotham chess edit, bad piggies x everything, both join us for a bite cuts, proud to be expendable, kwik flip, chronoshift (regretevator edition), the whole-server song and cant killean the zilean (the real one).",
-      "eleven are 720p webm with video backgrounds, two came down as mp4 and are stored as proper .mp4.",
-      "catalog rows now wrap long names instead of clipping them - only the pack tag shows inline, full aliases live in the hover tooltip."
+      "music pack 2 added geometry dash and the meme shelf, pack 3 brought twelve more videos and pack 3.5 the other whole-server cuts.",
+      "music pack 4 brought the entire ultrakill ost and the pizza place shelf. search \"ultrakill\" for the ost or \"wapp\" for the pizza place tracks.",
+      "credits went where they belonged along the way."
     ]
   },
   {
     "date": "2026-11-21",
     "type": "music pack",
-    "title": "music pack 9: one record, cut to the chase",
+    "title": "music pack 5: weird youtube shelf",
     "notes": [
-      "one new record on the shelf, plus the fix that taught the deck where the needle actually lands."
+      "the odd corners of youtube, filed properly, with five more pack 4.5 singles.",
+      "music pack 4.5 brought in the flavor foley vocal shelf."
+    ]
+  },
+  {
+    "date": "2026-11-21",
+    "type": "music pack",
+    "title": "music pack 6: the 400th record",
+    "notes": [
+      "music pack 6 crossed 400 tracks and the confetti button grew with the shelf.",
+      "word-synced karaoke arrived - live word highlighting in the lyrics window, with per-song presets for tracks the public database cannot match.",
+      "lyrics stay offline-only. the server reads a prebuilt file and never makes a live LRCLIB call."
+    ]
+  },
+  {
+    "date": "2026-11-21",
+    "type": "music pack",
+    "title": "music pack 7: fifteen more records",
+    "notes": [
+      "fifteen new videos from the meme shelf, plus the deck and shelf rework and the gear panel glow-up.",
+      "ui sound effects landed, preset lyrics arrived for its me its verity, and i miss the quiet finally got its video background."
     ]
   },
   {
@@ -41,73 +85,39 @@
   {
     "date": "2026-11-21",
     "type": "music pack",
-    "title": "music pack 7: fifteen more records",
+    "title": "music pack 9: one record, cut to the chase",
     "notes": [
-      "fifteen new videos from the meme shelf, plus the deck and shelf rework and the gear panel glow-up.",
-      "ui sound effects landed, preset lyrics arrived for its me its verity, and i miss the quiet finally got its video background."
+      "one new record on the shelf, plus the fix that taught the deck where the needle actually lands."
     ]
   },
   {
     "date": "2026-11-21",
     "type": "music pack",
-    "title": "music pack 6: the 400th record",
+    "title": "music pack 10: thirteen more records",
     "notes": [
-      "music pack 6 crossed 400 tracks and the confetti button grew with the shelf.",
-      "word-synced karaoke arrived - live word highlighting in the lyrics window, with per-song presets for tracks the public database cannot match.",
-      "lyrics stay offline-only. the server reads a prebuilt file and never makes a live LRCLIB call."
+      "13 new records - 419 to 431. anonymous hacking music, gotham chess edit, bad piggies x everything, both join us for a bite cuts, proud to be expendable, kwik flip, chronoshift (regretevator edition), the whole-server song and cant killean the zilean (the real one).",
+      "eleven are 720p webm with video backgrounds, two came down as mp4 and are stored as proper .mp4.",
+      "catalog rows now wrap long names instead of clipping them - only the pack tag shows inline, full aliases live in the hover tooltip."
     ]
   },
   {
     "date": "2026-11-21",
     "type": "music pack",
-    "title": "music pack 5: weird youtube shelf",
+    "title": "music pack 11: men's music",
     "notes": [
-      "the odd corners of youtube, filed properly, with five more pack 4.5 singles.",
-      "music pack 4.5 brought in the flavor foley vocal shelf."
+      "59 new records from men, a friend of lux, pulled from all 7 of his playlists. names always start with \"men - \" and every record carries the men alias.",
+      "attachment, inadequate pursuit, the ### ## ###### OSTs, buttersaken, tgwyktgotr, midnight pizza delivery, MFGR and calm mode on.",
+      "shelf is now 490. search \"men\", \"m11\", \"pack 11\" or \"music pack 11\" for the whole set."
     ]
   },
   {
     "date": "2026-11-21",
     "type": "music pack",
-    "title": "music packs 2 to 4: geometry dash, memes and ultrakill",
+    "title": "music pack 12: the havexy video era",
     "notes": [
-      "music pack 2 added geometry dash and the meme shelf, pack 3 brought twelve more videos and pack 3.5 the other whole-server cuts.",
-      "music pack 4 brought the entire ultrakill ost and the pizza place shelf. search \"ultrakill\" for the ost or \"wapp\" for the pizza place tracks.",
-      "credits went where they belonged along the way."
-    ]
-  },
-  {
-    "date": "2026-10-22",
-    "type": "music pack",
-    "title": "the big haul: 68 to 114 tracks",
-    "notes": [
-      "slime rancher and grim fandango soundtracks added, plus five new rooms to put them in."
-    ]
-  },
-  {
-    "date": "2026-10-22",
-    "type": "feature",
-    "title": "karaoke mode and 26 achievements",
-    "notes": [
-      "karaoke mode went live and the first 26 achievements gave people something to chase.",
-      "this update log showed up so you can see how it got here."
-    ]
-  },
-  {
-    "date": "2026-10-21",
-    "type": "feature",
-    "title": "v2: knobs and shortcuts",
-    "notes": [
-      "music settings, now playing everywhere, favorites, the lyrics window and lyrics presets.",
-      "polish pass, real haydee zone names, and housekeeping underneath it all."
-    ]
-  },
-  {
-    "date": "2026-10-21",
-    "type": "feature",
-    "title": "void records goes live",
-    "notes": [
-      "the shelf hit 68 tracks and the tonearm actually learned where to land. one deck, one very long list of records."
+      "all 23 havexy audio-only records were replaced by their official music videos - gypsy verity, folk valley, both hyperbaiters and every disstrack now has a real video background.",
+      "eight new records joined the shelf: master baiter, big d randy, gooners, tom pearl, roblox ceo, chainsfr, keys commenters and corn bot.",
+      "ui panels went translucent again so the video reads through while it stays behind the text. shelf is now 498 - search \"m12\", \"pack 12\" or \"music pack 12\"."
     ]
   }
 ]
